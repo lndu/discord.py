@@ -106,9 +106,4 @@ Bot Example
 
 You can find more examples in the examples directory.
 
-Links
-------
 
-- `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
-- `Official Discord Server <https://discord.gg/r3sSKJJ>`_
-- `Discord API <https://discord.gg/discord-api>`_
